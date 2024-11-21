@@ -1,1 +1,1 @@
-# Geometric-Shapes-
+The code defines Circle, Triangle, and Rectangle classes that model geometric shapes with constructors for default and custom dimensions. Each class has member functions to calculate properties such as area, perimeter, and specific dimensions (e.g., Circle's circumference, Rectangle's diagonal). Utility functions perform these calculations, and display functions output formatted shape details for testing and demonstration.
